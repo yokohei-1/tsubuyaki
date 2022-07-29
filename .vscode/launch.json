@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TsubuyakiApplication<tsubuyaki>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "jp.kobe_u.cs.daikibo.tsubuyaki.TsubuyakiApplication",
+      "projectName": "tsubuyaki",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
